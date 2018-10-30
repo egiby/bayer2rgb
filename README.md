@@ -2,6 +2,7 @@
 
 ## Requirements
 
+* python3
 * opencv
 * tensorflow
 * keras
